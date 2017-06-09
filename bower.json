@@ -1,0 +1,22 @@
+{
+  "name": "html-string-builder",
+  "authors": [
+    "Cole Hansen <cole_hansen@brown.edu>"
+  ],
+  "description": "A simple collection of functions to build html documents.",
+  "main": "index.js",
+  "keywords": [
+    "html",
+    "string-concatenation",
+    "tags"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
